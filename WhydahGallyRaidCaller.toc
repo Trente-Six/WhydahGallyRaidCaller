@@ -1,0 +1,10 @@
+## Interface: 60000
+## Author: Trente-Six
+## Title: |cff1784d1Whydah Gally Raid Caller|r
+## Notes: Caller de raid du Whydah Gally
+## Version: 0.1
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariablesPerCharacter: wgrc
+
+WhydahGallyRaidCaller.lua
